@@ -41,13 +41,6 @@
 
 ---
 
-
-## 📑 Project Presentation
-
-🔗 https://canva.link/2twsf1ms0kozj70
-
----
-
 ## 📌 Project Overview
 
 Proyek ini bertujuan untuk menganalisis sentimen masyarakat terhadap konten TikTok Pemerintah Kota Batu menggunakan pendekatan Machine Learning.
@@ -160,3 +153,10 @@ Data dikumpulkan melalui scraping komentar TikTok dan dianalisis untuk mengident
 - Deployment ke web app (Streamlit / Flask)  
 - Real-time sentiment monitoring  
 - Dashboard interaktif  
+
+---
+
+## 📑 Project Presentation
+
+🔗 https://canva.link/2twsf1ms0kozj70
+
