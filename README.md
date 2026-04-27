@@ -19,6 +19,10 @@
 
 ---
 
+### 🚀 Core Project | Internship Project (DISKOMINFO BATU) | 2025
+
+---
+
 ## 🧠 Project Highlight
 
 > Proyek ini menganalisis sentimen masyarakat terhadap konten TikTok Pemerintah Kota Batu menggunakan Machine Learning untuk memahami opini publik dan isu yang berkembang.
