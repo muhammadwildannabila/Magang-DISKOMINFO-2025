@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 Core Project | Internship Project (DISKOMINFO BATU) | 2025
+### 🟢 Core Project | Internship Project (DISKOMINFO BATU) | 2025
 
 ---
 
